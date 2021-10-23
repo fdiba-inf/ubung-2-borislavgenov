@@ -16,7 +16,7 @@ public class DayOfWeek {
         case 5: System.out.println("Day of week: Friday"); break;
         case 6: System.out.println("Day of week: Saturday"); break;
         case 7: System.out.println("Day of week: Sunday"); break;
-        default: System.out.println("Invalid day");
+        default: System.out.println("Day of week: Invalid day");
       }
     
     
